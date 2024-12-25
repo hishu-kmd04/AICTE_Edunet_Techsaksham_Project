@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fruit and Vegetable Image Classification</title>
+    
 </head>
 <body>
-    <h1>Fruit and Vegetable Image Classification</h1>
+    <h1>Image Classification Using ML Model</h1>
     <p>
         This project demonstrates building an image classification model to accurately identify images of fruits and vegetables using TensorFlow and Keras. 
         The model achieves high performance through robust deep learning techniques and can be deployed as a web application for interactive use.
@@ -37,7 +37,6 @@
     <ol>
         <li>Clone this repository.</li>
         <li>Download the dataset from <a href="#">Google Drive</a>.</li>
-        <li>Set up the required dependencies using the <b>requirements.txt</b>.</li>
         <li>Run <b>app.py</b> to launch the web application.</li>
         <li>Explore the Jupyter Notebook <b>image_class_model.ipynb</b> to understand the ML pipeline.</li>
     </ol>
