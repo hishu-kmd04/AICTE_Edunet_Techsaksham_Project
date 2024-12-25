@@ -40,9 +40,5 @@
         <li>Run <b>app.py</b> to launch the web application.</li>
         <li>Explore the Jupyter Notebook <b>image_class_model.ipynb</b> to understand the ML pipeline.</li>
     </ol>
-    <h2>License</h2>
-    <p>
-        This project is licensed under <b>Your License Name</b>.
-    </p>
 </body>
 </html>
